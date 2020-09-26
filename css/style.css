@@ -5,7 +5,7 @@
 
 h1 {
 	font-family:Titulo;
-	font-size:40px;
+	font-size:50px;
 	color:#603A03;
 }
 
@@ -69,15 +69,21 @@ background-image:url(/imgs/apache.png);
 }
 
 #inicio {
-	width:350px;
+	width:450px;
 	height:200px;
 	background-color:#FFF;
+	font-size: 18px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  	margin-left:auto;
     margin-right:auto;
  	margin-top:100px;
 	text-align:center;
 	padding:10px;
 
+}
+
+.color {
+	color: red;
 }
 
 .anima1 {
